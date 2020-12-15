@@ -16,4 +16,13 @@ The back-end is using an [H2 database](https://www.h2database.com) behind to sto
 + Java 11
 + Maven 3
 
-Just clone this project and execute ``mvn test``.
+### Dependency
+
++ springboot-data-jpa
++ h2
+
+### Run Test
+
+```
+mvn test
+```
